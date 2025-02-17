@@ -5,7 +5,11 @@
   "license": "ISC",
   "repository": "<Add your repository here>",
   "devDependencies": {
+    "@cap-js/sqlite": "^1",
     "@sap/cds-dk": "^8.7.2"
+  },
+  "scripts": {
+    "cds-build": "npm install --include=dev && cds build --production"
   },
   "sapux": [
     "app/incidents"
