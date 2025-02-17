@@ -18,5 +18,8 @@
     "requires": {
       "workzone": true
     }
+  },
+  "dependencies": {
+    "@ui5/cli": "^4.0.13"
   }
 }
