@@ -5,7 +5,7 @@
   "license": "ISC",
   "repository": "<Add your repository here>",
   "devDependencies": {
-    "@sap/cds-dk": "^8.6.0"
+    "@sap/cds-dk": "^8.7.2"
   },
   "sapux": [
     "app/incidents"
